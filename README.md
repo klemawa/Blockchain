@@ -1,7 +1,5 @@
 # Prosty projekt Blockchain
 
-![Blockchain](blockchain.jpg)
-
 ## Opis
 
 Ten projekt to prosty przykład implementacji technologii blockchain w języku Python. Zawiera podstawowe funkcje do tworzenia transakcji, wydobywania bloków i sprawdzania salda portfela. Jest to projekt stworzony w celach edukacyjnych, aby zobrazować podstawowe koncepcje związane z technologią blockchain.
